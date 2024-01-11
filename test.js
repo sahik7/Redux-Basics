@@ -21,12 +21,6 @@ console.log(level(54)(66)); // 125
 console.log(level(15)(12)); // 32
 console.log(level(2)(4));// 11
 
-6
-9
-21
-125
-32
-11
 
 
 
